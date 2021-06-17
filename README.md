@@ -1,6 +1,6 @@
-# makesmatheasy-reactnative
+# makesmatheasy-mobile
 
-## Ideas for Let's Grow More Summer of Code,2021
+## Ideas
 - Setup the webview in the React Native Application
   - Able to load locally saved HTML, CSS, JavaScript files
 - Add Custom Loader, so that when the Webview loads shows custom loading screen
